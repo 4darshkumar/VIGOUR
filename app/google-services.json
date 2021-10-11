@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "431980420802",
+    "project_id": "vigour-3ff10",
+    "storage_bucket": "vigour-3ff10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431980420802:android:9c41a5ab6392a1857d255b",
+        "android_client_info": {
+          "package_name": "com.example.vigour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431980420802-m9u66d8hhrga0em1ut0tpjj0j0mm8122.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vigour",
+            "certificate_hash": "3c9c9c8476a6dce76d3a368c10aa5d21293d4590"
+          }
+        },
+        {
+          "client_id": "431980420802-2trnc8j5p5uqd8j8f6vopsl3opu7apj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdNay3eAn_Ugin2rPmXtl4NCqWwAr_Oqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431980420802-2trnc8j5p5uqd8j8f6vopsl3opu7apj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

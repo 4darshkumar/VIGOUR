@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frameLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgggg"
+    tools:context=".d4">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/dpbg"
+        android:text="DAY 4 - Milk and Bananas Day"
+        android:textAlignment="center"
+        android:textColor="#E91E63"
+        android:textSize="22sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="333dp"
+        android:layout_height="26dp"
+        android:text="Total calorie consumption  of the day is 694+"
+        android:textAlignment="center"
+        android:textColor="#FFEB3B"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/textView17"
+        app:layout_constraintVertical_bias="0.062" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="365dp"
+        android:layout_height="624dp"
+        android:layout_marginTop="20dp"
+        android:text="Wakeup:\n * One glass warm lime water. (2-3 Cal)\n \nBreakfast (8-9AM): \n * One Banana. (54 Cal)\n * 1 Glass warm milk (167 Cal)\n * 2 Glass of water.\n \nMidday Snack (10-11.30AM):\n
+* 1 Banana (54 Cal)\n
+* 2 Glass of water\n \n
+Lunch (12.30-2PM):\n
+* Banana MilkShake (without sugar) (193 Cal) \n * 2 Glass of water\n \n
+Evening Snack (4-5.30PM):\n
+* 1 Orange (63 Cal)\n
+* 1 Banana (54 Cal)\n
+* 2 Glass of water\n \n
+Dinner (7.30-8.30PM):\n
+* Vegetable Soup (52 Cal)\n
+* One Banana (54 Cal)\n
+* 2 Glass of water\n\n
+Strict No:\n
+* Sugar\n
+* Fat Milk\n\n
+Avoid:\n
+* Oil(use olive oil)\n
+* Salt\n\n
+Tips of the day\n
+* Increase water intake-drink at least 15 glasses of water.\n
+* Eat 6-8 bananas
+"
+        android:textColor="#3F51B5"
+        app:layout_constraintBottom_toBottomOf="@+id/textView17"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView18" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Vigour</string>
+    <string name="title_activity_dietplan">dietplan</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button">Button</string>
+    <string name="google_map_key">AIzaSyB_qsP8AOP_P0MdlPz-48TDaJYjTP3vbjo</string>
+    <string name="map_key" translatable="false">AIzaSyB_qsP8AOP_P0MdlPz-48TDaJYjTP3vbjo</string>
+    <string name="boat_pose">Step1: Sit on the floor with your hands a little behind your hips
+        and legs straight in front of you.\nStep2: Lift your feet off the floor slowly so that the thighs are
+        angled about 45-50 degrees relative to the floor.\nStep3: Stretch your arms alongside the legs, parallel to each other
+        and the floor.\nStep4: Keep the lower belly relatively flat and breathe easily
+
+Step5: Stay in this position for about 50-60 seconds.</string>
+    <string name="chakrasana">
+        Step1:Lie down on your back comfortably on a yoga mat. Look straight in the upward direction.
+ Step2: Fold both of your legs and bend them down below your buttock, making your feet’s sole touch the ground. Keep the feet and knees at least 30 cm apart.
+Step3:Place both of your hands beside your head and keep them beneath your shoulders in a way that the fingers turns towards the legs.
+ Step4: Arch your back while raising the body supporting the weight of your upper body on the back and top of your head.
+ Step5: Lift your head and trunk from the ground and straighten your hands and legs as much as possible
+ Step6: Stay in this posture while breathing normally for as long as you feel comfortable and return to the floor slowly while exhaling.Slowly lower the body to the floor.
+    </string>
+    <string name="teardrop">
+        Step1: Begin lying on the belly in snake pose with the bodyweight supported on the forearms.
+Step2: Bend the right leg and bring the foot toward the buttocks. Inhale and grab the outside of the foot with the right hand.                                                                                         Step3:Rotate in the shoulder socket so that the elbow is pointing up. Do the same on the left side.
+Step4: Inhale and straighten the arms and legs, lifting the feet higher toward the sky.
+Breathe while holding the pose.
+Step5:Exhale and slowly release the feet one at a time.
+    </string>
+    <string name="uttasana">
+        Step1:Relax the body in Mountain Pose taking a few deep breaths.
+ Step2: Exhale and move your torso forward from the hips, not the waist.
+Step3: Continue to bend till your hands touch your feet. Take a few breaths.
+Step4: Stretch your hips and bend further (without straining the body).
+Step5: Place the palm of your hands by the side of your feet.
+Step6: Bring your forehead to your knees. Close your eyes and relax the body.
+Step7: Take deep and slow breaths. Hold the position for a few seconds.
+Step8: As you retain the pose, gently try to stretch the spine further.
+    </string>
+    <string name="cowpose">
+        Step1
+To come into Cow pose, start from all fours in a tabletop position. Your knees under your hips and wrists under your shoulders or slightly forwards of them.
+
+Step 2:Spread your fingers, root down through the base of the fingers and press your fingers on the mat.
+
+Step3:On an inhalation, lower the belly, lift your chest, tailbone pointing up and look up.
+
+Step4Exhale, come back into your neutral ‘tabletop’ position.
+    </string>
+    <string name="catpose">Cat Pose
+Step 1:Start on your hands and knees in a “tabletop” position.
+Make sure your knees are set directly below your hips and your wrists,
+elbows and shoulders are in line and perpendicular to the floor.
+Center your head in a neutral position, eyes looking at the floor.\n
+Step 2:As you exhale, round your spine toward the ceiling,
+making sure to keep your shoulders and knees in position.
+Release your head toward the floor, but don’t force your chin to your chest.\n
+Step 3:Inhale, coming back to neutral “tabletop” position on your hands and knees.\n
+Step 4:This pose is often paired with Cow Pose on the inhale for a gentle, flowing vinyasa.</string>
+    <string name="palmpose">
+        SwayingPalm Tree pose
+step1:Distance your legs shoulder-width.\nstep2:Interlock the fingers of both of your hands with the palms facing outward direction.\nstep3:While inhaling, slowly raise the arms bringing them over the head.
+Now the palms must be facing upwards.\nstep4:Stretch the arms in the upward direction, they should be slightly touching the ears.\nstep5:While exhaling, slowly begin to lower the torso to the right side of the body as far as can comfortable.
+    </string>
+    <string name="balasana">Step 1:Sit back on your heels (hips to heels).
+Step 2:Bring forehead to floor
+Step 3:Stretch through your arms overhead or by your sides
+Step 4:Let your whole body relax into your thighs and hips
+    </string>
+    <string name="sukhasana">Step 1:Sit on the floor with legs stretched out. Always use a yoga mat or a cushion or a carpet while sitting on the floor.
+Step 2:Fold the left leg and tug it inside the right thigh.
+Step 3:Then fold the right leg and tug in inside the left thigh.
+Step 4:Keep the hands on the knees. Jnana mudra or Chin mudra can be used if you are using this posture for meditation.
+step 5:Sit erect with spine straight.
+Step 6:Relax your whole body and breathe normally.
+Step 7:Maintain this position for as long a comfortable.
+    </string>
+    <string name="trikonasan">Step 1:Stand upright and place your legs about three and a half to four feet apart.
+        Step 2:Make sure your right foot is placed outside at 90 degrees and the left foot is placed in at 15 degrees.
+ Step 3:Align the center of your right heel with the center of the arch of the left foot.
+Step 4:You need to remember that your feet are pressing the ground, and the weight of your body is balanced equally on both feet.
+Step 5:Take a deep breath, and as you exhale, bend your body to the right from below your hips, ensuring your waist is straight. Lift your left hand up and let your right hand touch the ground. Both your arms should form a straight line.
+Step 6:Depending on the level of comfort, rest your right hand on your shin, ankle, or outside the right foot on the floor.
+No matter where you place your hand, make sure you do not distort the sides of your waist.
+Quickly check on your left arm. It should be stretched out towards the ceiling and in line with the top of your shoulder.
+Let your head sit in a neutral position or turn it to the left, with your gaze set on your left palm.
+Step 7:Your body should be bent sideways, and not backward or forward. Your chest and pelvis should be wide open.
+Step 8:Stretch to the fullest, and focus on stabilizing your body. Take deep, long breaths. With every exhalation, try and relax your body more.
+Step 9:Inhale and come up. Drop your arms to your side and straighten your feet.
+Step 10:Repeat the same using the left leg.</string>
+    <string name="sabasana">Step 1:Be positioned flat on your backside, like our sleeping pose. Legs are supposed to be separated.
+Step 2:Maintain your arms at your side and your palms facing up. Now slow down.
+Step 3:Close your eyes moreover breathe deeply and bit by bit through the nostrils.
+Step 4:Start concentrating from your head to your feet. This way you are deliberately calming your each portion of the body.
+        Avoid moving ahead devoid of relaxing each part of the body.
+Step 5:On every inhaling plus exhaling (breathing) feel that your body is entirely relaxed.
+        Allow your tension, depression, worry and stress run away on every exhale.
+Step 6:Those having excellent concentration can perform for a long time and others can perform for 3-5 minutes.
+Step 7:Relax the muscles which lead to a decrease in the demand for blood and oxygen, giving the circulatory and respiratory systems a break.</string>
+    <string name="chaturanga">
+        Step 1:From Plank Pose, align your shoulders slightly ahead of the wrists and come onto the balls of your feet,
+        pressing the soles of your feet back, as if into a wall behind you.
+        Step 2:Simultaneously push back through the heels to engage the quadriceps and bring the lower body to life,
+        and reach your sternum forward, creating a straight, taut line of energy from the crown of your head through your feet.
+        Step 3:On an inhalation, draw the heads of the shoulders and the tops of the thighs up and away from the floor,
+        pull your lower body up and in, and release the tailbone toward the floor.
+        Step 4:On an exhalation, bend your elbows, keeping them over your wrists and drawn in against your sides.
+        Slowly lower yourself toward the floor, keeping your body as straight as a plank of wood,
+        neither letting your center sag nor sticking your buttocks up in the air.
+        Step 5:Bring your gaze to the floor, about 6 inches in front of you,
+        and continue to lower until your shoulders are at the same height as your elbows.
+        Step 6:Continue to reach through the heels, sternum, and crown of the head as you breathe.
+        Step 7:To come out of the pose, exhale and lower down to your belly or push back up to Plank Pose.
+        Or inhale and come onto the tops of your feet and into Upward-Facing Dog.</string>
+    <string name="natarajasana">Step 1:Stand in tadasana gazing forward to a fixed point.
+Step 2:Shifting the weight on the left leg, bend the right knee flexing the right foot backward.
+Step 3:Hold the right big toe with the right thumb, index, and middle fingers.
+Step 4:Keep the left leg straight and firm to the floor.
+Step 5:Swivel the right shoulder to point the elbow upwards pulling the right foot towards the head.
+Step 6:Simultaneously, raise the left arm forward aligned with the shoulder.
+Step 7:Extend the spine and left arm to lean forward and reach upward.
+Step 8:Join the tip of the index finger and thumb of the left hand to form jnana mudra.
+Step 9:Hold the pose for 10-15 seconds breathing deeply and keeping the eyes fixed on the fingers of the left hand.
+Step 10:Lower the left arm to the side and release the right foot to the floor.
+Step 11:Relax in tadasana for a few seconds.
+Step 12:Repeat it to the other side.
+    </string>
+</resources>

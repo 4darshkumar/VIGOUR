@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".yoga2"
+    android:background="@drawable/bgbg">
+    <ScrollView
+        android:layout_height="match_parent"
+        android:layout_width="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_margin="20dp">
+
+            <Button
+                android:id="@+id/boat_pose"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_blue_bright"
+                android:fontFamily="@font/akronim"
+                android:onClick="ImageButtonClicked"
+                android:text="BOAT POSE"
+                android:textStyle="italic"
+                android:textSize="30sp" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_blue_bright"
+                android:text="Chakrasana"
+                android:textSize="30sp"
+                android:textStyle="italic"
+                android:layout_marginTop="20dp"
+                android:id="@+id/chakrasana"
+                android:fontFamily="@font/akronim"
+                android:onClick="ImageButtonClicked"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_blue_bright"
+                android:text="Teardrop pose"
+                android:textSize="30sp"
+                android:textStyle="italic"
+                android:layout_marginTop="20dp"
+                android:id="@+id/Teardrop_pose"
+                android:fontFamily="@font/akronim"
+                android:onClick="ImageButtonClicked"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_blue_bright"
+                android:text="Uttanasana"
+                android:textSize="30sp"
+                android:textStyle="italic"
+                android:layout_marginTop="20dp"
+                android:id="@+id/Uthanasana"
+                android:fontFamily="@font/akronim"
+                android:onClick="ImageButtonClicked"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_blue_bright"
+                android:text="cow pose"
+                android:textSize="30sp"
+                android:textStyle="italic"
+                android:layout_marginTop="20dp"
+                android:id="@+id/cowpose"
+                android:fontFamily="@font/akronim"
+                android:onClick="ImageButtonClicked"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_blue_bright"
+                android:text="cat pose"
+                android:textSize="30sp"
+                android:textStyle="italic"
+                android:layout_marginTop="20dp"
+                android:id="@+id/catpose"
+                android:fontFamily="@font/akronim"
+                android:onClick="ImageButtonClicked"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_blue_bright"
+                android:text="swaying palm tree pose"
+                android:textSize="30sp"
+                android:textStyle="italic"
+                android:layout_marginTop="20dp"
+                android:id="@+id/palmtreepose"
+                android:fontFamily="@font/akronim"
+                android:onClick="ImageButtonClicked"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_blue_bright"
+                android:text="balasana"
+                android:textSize="30sp"
+                android:textStyle="italic"
+                android:layout_marginTop="20dp"
+                android:id="@+id/balasana"
+                android:fontFamily="@font/akronim"
+                android:onClick="ImageButtonClicked"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_blue_bright"
+                android:text="sukhasana"
+                android:textSize="30sp"
+                android:textStyle="italic"
+                android:layout_marginTop="20dp"
+                android:id="@+id/sukhasana"
+                android:fontFamily="@font/akronim"
+                android:onClick="ImageButtonClicked"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_blue_bright"
+                android:text="trikonasan"
+                android:textSize="30sp"
+                android:textStyle="italic"
+                android:layout_marginTop="20dp"
+                android:id="@+id/trikonasan"
+                android:fontFamily="@font/akronim"
+                android:onClick="ImageButtonClicked"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_blue_bright"
+                android:text="sabasana"
+                android:textSize="30sp"
+                android:textStyle="italic"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/akronim"
+                android:id="@+id/sabasana"
+                android:onClick="ImageButtonClicked"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_blue_bright"
+                android:text="chaturanga"
+                android:textSize="30sp"
+                android:textStyle="italic"
+                android:fontFamily="@font/akronim"
+                android:layout_marginTop="20dp"
+                android:id="@+id/chaturanga"
+                android:onClick="ImageButtonClicked"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_blue_bright"
+                android:text="natarajasana"
+                android:textSize="30sp"
+                android:textStyle="italic"
+                android:layout_marginTop="20dp"
+                android:id="@+id/natarajasana"
+                android:fontFamily="@font/akronim"
+                android:onClick="ImageButtonClicked"/>
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
